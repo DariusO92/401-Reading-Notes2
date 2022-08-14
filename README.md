@@ -18,5 +18,6 @@ A grow mind set is one that if you **never stop putting in the work** to learn s
 
 ### READING NOTES links
 - https://github.com/DariusO92/Reading-notes-201
+- https://github.com/DariusO92/Reading-notes-301
 
 ### Reasources 
