@@ -13,6 +13,7 @@ A grow mind set is one that if you **never stop putting in the work** to learn s
 
 ## Table of Contents
 - [Command line practice](CommandLine.md)
+- [Data Structures and Algorithms](DataStructuresAndAlgorithms.md)
 - [class one notes](dayonereadingnotes.md)
 
 
